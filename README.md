@@ -1,9 +1,9 @@
 # Title of Project: [PLANT DISEASE DETECTION USING CNN BASED DEEP LEARNING MODELs]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_Akhilesh Singh]
-2. [TEAM_MEMBER_2_Awadhesh Kumar Maurya]
-3. [TEAM_MEMBER_3_Ayush Prakash]
+1. Akhilesh Singh
+2. Awadhesh Kumar Maurya
+3. Ayush Prakash
 
 ## Steps for Execution:
 1. [STEP 1]
