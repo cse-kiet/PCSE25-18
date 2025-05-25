@@ -1,10 +1,10 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [PLANT DISEASE DETECTION USING CNN BASED DEEP
+LEARNING MODELs]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. [TEAM_MEMBER_1_Akhilesh Singh]
+2. [TEAM_MEMBER_2_Awadhesh Kumar Maurya]
+3. [TEAM_MEMBER_3_Ayush Prakash]
 
 ## Steps for Execution:
 1. [STEP 1]
