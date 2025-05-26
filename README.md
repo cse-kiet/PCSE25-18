@@ -1,4 +1,4 @@
-# Title of Project: [PLANT DISEASE DETECTION USING CNN BASED DEEP LEARNING MODELs]
+# Title of Project: PLANT DISEASE DETECTION USING CNN BASED DEEP LEARNING MODELs
 
 ## Team Members:
 1. Akhilesh Singh
@@ -15,13 +15,17 @@
 7. Run the Flask app using below command python3 app.py
 8. You can also use downloaded file in Model Section and play with it using Jupyter Notebook.
 
+⭐Testing Images
+If you do not have leaf images then you can use test images located in test_images folder
+Each image has its corresponding disease name, so you can verify whether the model is working perfectly or not
+
 ## Checklist:
-1. Final Project Report
+1. Final Project Report ✅
 2. Certificate VII Semester (Dated: December 2024).
 3. Certificate VIII Semester (Dated: May 2025).
 4. Synopsis
 5. Final Presentation
-6. Source Code
-7. Database dump (.sql file)
+6. Source Code ✅
+7. Database dump (.sql file) ✅
 8. If a web project, then a Docker file for deployment
-9. README (This file)
+9. README (This file)✅
